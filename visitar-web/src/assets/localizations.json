@@ -7,8 +7,7 @@
         "home": "Home",
         "how-to-use": "How to use",
         "download": "Download",
-        "about": "About",
-        "contact": "Contact"
+        "about": "About"
       },
       "landing-page": {
         "subtitle": "Experience Široki Brijeg through augmented reality",
@@ -46,9 +45,6 @@
           "answer": "Go to the 'How to use section' to get started."
         }
       },
-      "contact-us": {
-        "title": "Have any questions - Contact us here!"
-      },
       "name": "Name",
       "email": "Email",
       "message": "Message",
@@ -70,8 +66,7 @@
         "home": "Početna",
         "how-to-use": "Upute korištenja",
         "download": "Preuzimanje",
-        "about": "O nama",
-        "contact": "Kontakt"
+        "about": "O nama"
       },
       "landing-page": {
         "subtitle": "Doživite Široki Brijeg kroz proširenu stvarnost",
@@ -108,9 +103,6 @@
           "question": "Gdje da započnem?",
           "answer": "Za početak idite na odjeljak \"Upute korištenja\"."
         }
-      },
-      "contact-us": {
-        "title": "Imate pitanja - Kontaktirajte nas ovdje!"
       },
       "name": "Ime",
       "email": "Email",

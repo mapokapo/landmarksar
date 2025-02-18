@@ -63,13 +63,6 @@ const Navigation: React.FC = () => {
                 {t("navbar.download")}
               </a>
             </li>
-            <li className="flex items-center">
-              <a
-                href="#about"
-                className="text-pri hover:text-sec transition duration-150">
-                {t("navbar.about")} / {t("navbar.contact")}
-              </a>
-            </li>
           </ul>
         </div>
         <div className="hidden items-center md:flex">
