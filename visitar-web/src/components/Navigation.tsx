@@ -91,7 +91,7 @@ const Navigation: React.FC = () => {
             </li>
             <li className="flex items-center">
               <a
-                href="#about"
+                href="#FAQ"
                 className="text-pri hover:text-sec transition duration-150">
                 {t("navbar.about")}
               </a>
