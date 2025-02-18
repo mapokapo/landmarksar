@@ -93,7 +93,7 @@ const Navigation: React.FC = () => {
               <a
                 href="#about"
                 className="text-pri hover:text-sec transition duration-150">
-                {t("navbar.about")} / {t("navbar.contact")}
+                {t("navbar.about")}
               </a>
             </li>
           </ul>
